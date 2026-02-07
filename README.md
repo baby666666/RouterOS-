@@ -38,6 +38,7 @@ To Ports: 内网设备的端口
 
 然后点击Apply
 当然，为了方便管理，你也可以在Comment里面添加备注.
+
 <img width="651" height="454" alt="image" src="https://github.com/user-attachments/assets/e853998c-db6a-4e83-ad01-35a16bf4dc2e" />
 
 一些不需要对所有IP都开放的服务，为了安全, 我一般会加个限制.
