@@ -1,7 +1,10 @@
 # RouterOS-规则
 1、导入中国区IP段(每条命令单独执行):
+
 /tool fetch url=http://www.iwik.org/ipcountry/mikrotik/CN
+
 /import file-name=CN
+
 这里的CN指的是中国, 如果需要导入其他国家或地区的IP可以根据直接的需求修改代码
 CN: 中国
 US: 美国
