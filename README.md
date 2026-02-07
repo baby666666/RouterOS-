@@ -38,12 +38,12 @@ To Ports: 内网设备的端口
 
 然后点击Apply
 当然，为了方便管理，你也可以在Comment里面添加备注.
-
 <img width="651" height="454" alt="image" src="https://github.com/user-attachments/assets/e853998c-db6a-4e83-ad01-35a16bf4dc2e" />
 
 一些不需要对所有IP都开放的服务，为了安全, 我一般会加个限制.
 比如只允许部分IP能访问.
 先在IP列表里面把IP地址添加进去, 然后在端口转发设置Advanced的Src.Address List里面选择IP列表.
+
 <img width="654" height="456" alt="image" src="https://github.com/user-attachments/assets/5f9f6293-50be-4675-840e-225dcb0701cc" />
 <img width="649" height="455" alt="image" src="https://github.com/user-attachments/assets/140d2763-c8b7-4ecc-8ee2-9df676b203dc" />
 
